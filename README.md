@@ -1,0 +1,2 @@
+# JellyseerrApp
+jellyseerr app
