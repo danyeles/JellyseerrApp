@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'ghcr.io/fallenbagel/jellyseerr:latest'
+        DOCKER_IMAGE = 'ghcr.io/seerr-team/seerr:latest'
         CONTAINER_NAME = 'jellyseerr'
         PUID = '1000'
         PGID = '1000'
